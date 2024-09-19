@@ -1,31 +1,13 @@
- body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    background-color: #f0f0f0;
-}
-
-.flag {
-    width: 300px;
-    height: 180px;
-    border: 1px solid #000;
-}
-
-.stripe {
-    height: 20%;
-}
-
-.blue {
-    background-color: #0033a0;
-}
-
-.white {
-    background-color: #ffffff;
-}
-
-.red {
-    background-color: #da291c;
-    height: 20%; 
+h1{
+ width: 30px; /* Largura de 30 pixeis */
+ height: 50px; /* Altura de 50 pixeis */
+ background-color: Lightgray; /* Cor de fundo cinza claro */
+ border-width: 10px; /* Largura da borda de 10 pixeis */
+ border-style: solid; /* Estilo da borda é solida */
+ border-color: red; /* Cor da borda é vermelho */
+ padding: 20px; /* Preenchimento de 20 pixeis */
+ outline-width: 10px; /* Largura do contorno de 10 pixeis */
+ outline-style: solid; /* Estilo do contorno é solido */
+ outline-color: blue; /* Cor do contorno é azul */
+ margin: 50px; /* margem de 50 pixeis */
 }
